@@ -1,6 +1,7 @@
 // Addremove Elements From Arrays Using Push,Pop Shift _ Unshift
 
 //POP
+// POP working is last out element
 const Y = [25, 48, 392, 994 , 343 , 32, 98];
 
 // Before Element POP

@@ -1,6 +1,8 @@
 // Addremove Elements From Arrays Using Push,Pop Shift _ Unshift
 
 //PUSH
+// PUSH working is last in element
+
 const x = [45, 98, 32, 34];
 
 // Before Element push
