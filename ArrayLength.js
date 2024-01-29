@@ -1,2 +1,2 @@
-const num = [38, 45, 23, 56];
-console.log(num.length);
+const numbers = [56, 45, 45];
+console.log(numbers.length)
